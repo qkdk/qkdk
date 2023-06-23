@@ -31,9 +31,8 @@ Here are some ideas to get you started:
 -->
 
 ---
-<div style="display: flex; align-items: center" >
     
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qkdk&show_icons=true&theme=default)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qkdk&show_icons=true&theme=default)
+-->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qkdk&theme=default)
-</div>  
