@@ -2,7 +2,7 @@
 ___
 
 - 🌱 Learning
-  - Back-End Skills
+  - Back-End
 - 💬 Contact
   - akb033134@gmail.com
 
