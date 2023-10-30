@@ -5,8 +5,10 @@ ___
   - Back-End
 - 💬 Contact
   - akb033134@gmail.com
+- 👀 [Portfolio](https://www.notion.so/e055d421fedc460c9f7ade21dd81ad1b)
 
-___
+ ___
+ ## 👨‍💻 SKILLS
 
 - Back-End
   - <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat&logo=springsecurity&logoColor=white"/> <img src="https://img.shields.io/badge/MySql-4479A1?style=flat&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/JPA-6DB33F?style=flat&logo=&logoColor=white"/> <img src="https://img.shields.io/badge/MyBatis-6DB33F?style=flat&logo=&logoColor=white"/>
@@ -34,5 +36,12 @@ Here are some ideas to get you started:
     
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qkdk&show_icons=true&theme=default)
 -->
+<img style="height:122px;" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=akb0331"/>&emsp;
+<img style="height:122px;" src="https://github-readme-stats.vercel.app/api?username=qkdk&show_icons=true&theme=buefy&line_height=21"/>
+<img style="height:122px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qkdk&exclude_repo=PyTorch&layout=compact" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qkdk&theme=default)
+--- 
+## 🏆 Awards
+- 2023.10     삼성 청년 SW아카데미 특화 프로젝트(트랙 : 핀테크) - 우수
+- 2023.06     삼성 청년 SW아카데미 1학기 - 3등  (삼성 청년 SW아카데미)
+- 2022.06     SW중심대학 공동 해커톤 2022 - 최우수(정보통신기획평가원상) (과학기술정보통신부)
